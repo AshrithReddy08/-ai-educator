@@ -7,6 +7,7 @@ Multi-Input Formats: Supports interactions via text, voice, and image inputs.
 Advanced Prompt Engineering: Refines prompts to enhance response accuracy and relevance.
 Real-Time Feedback: Offers immediate feedback to optimize learning effectiveness.
 Project Structure
+```
 Enhanced-AI-Educator/
 ├── /src/
 │   ├── index.php
@@ -23,3 +24,4 @@ Enhanced-AI-Educator/
 ├── /images/
 │   └── (image files used in the project)
 └── README.md
+```
